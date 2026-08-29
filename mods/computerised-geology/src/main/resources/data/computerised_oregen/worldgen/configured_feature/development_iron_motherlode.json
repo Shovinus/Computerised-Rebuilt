@@ -1,0 +1,82 @@
+{
+  "type": "computerised_oregen:motherlode",
+  "config": {
+    "frequency": 0.0026,
+    "height": {
+      "mean": 26.0,
+      "range": 10.0,
+      "type": "normal"
+    },
+    "shape": {
+      "motherlode_size": {
+        "mean": 230.0,
+        "range": 12.5,
+        "type": "uniform"
+      },
+      "branch_count": {
+        "mean": 3.0,
+        "range": 2.0,
+        "type": "uniform"
+      },
+      "branch_length": {
+        "mean": 60.0,
+        "range": 60.0,
+        "type": "uniform"
+      },
+      "branch_inclination": {
+        "mean": 0.0,
+        "range": 0.55,
+        "type": "uniform"
+      },
+      "segment_length": {
+        "mean": 15.0,
+        "range": 6.0,
+        "type": "uniform"
+      },
+      "segment_radius": {
+        "mean": 0.5,
+        "range": 0.3,
+        "type": "uniform"
+      },
+      "segment_turn": {
+        "mean": 0.5,
+        "range": 0.5,
+        "type": "uniform"
+      },
+      "segment_pitch": {
+        "mean": 0.0,
+        "range": 0.1,
+        "type": "uniform"
+      },
+      "fork_count": {
+        "mean": 0.2,
+        "range": 0.0,
+        "type": "uniform"
+      },
+      "fork_length_multiplier": {
+        "mean": 0.75,
+        "range": 0.25,
+        "type": "uniform"
+      },
+      "vertical_limit": 16.0,
+      "density": 0.25
+    },
+    "blocks": [
+      {
+        "state": { "Name": "minecraft:iron_ore" },
+        "weight": 70
+      },
+      {
+        "state": { "Name": "minecraft:copper_ore" },
+        "weight": 20
+      },
+      {
+        "state": { "Name": "minecraft:gold_ore" },
+        "weight": 10
+      }
+    ],
+    "replaceable_tag": "minecraft:stone_ore_replaceables",
+    "biome_tag": "computerised_oregen:iron_deposit_biomes",
+    "salt": 104729
+  }
+}

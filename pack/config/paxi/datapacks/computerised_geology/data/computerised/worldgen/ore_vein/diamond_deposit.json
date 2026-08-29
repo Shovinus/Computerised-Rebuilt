@@ -1,0 +1,10 @@
+{
+  "ore":{"type":"minecraft:weighted_state_provider","entries":[{"weight":1,"data":{"Name":"minecraft:diamond_ore"}},{"weight":4,"data":{"Name":"minecraft:deepslate_diamond_ore"}}]},
+  "secondary_ore":"minecraft:coal_block",
+  "secondary_ore_chance":0.08,
+  "filler_block":{"type":"minecraft:weighted_state_provider","entries":[{"weight":1,"data":{"Name":"minecraft:coal_ore"}},{"weight":4,"data":{"Name":"minecraft:deepslate_coal_ore"}}]},
+  "dimension":"minecraft:overworld",
+  "vein_toggle":{"input":{"type":"minecraft:interpolated","argument":{"type":"minecraft:noise","noise":"computerised:diamond_deposit","xz_scale":0.25,"y_scale":0.65}},"min_threshold":0.67,"max_threshold":0.75},
+  "vein_settings":{"min_ore_richness":0.03,"max_ore_richness":0.12,"min_richness_threshold":0.67,"max_richness_threshold":0.75,"vein_solidness":0.72},
+  "conditions":{"type":"dynamic_veins:height_range","min_inclusive":{"absolute":-56},"max_inclusive":{"absolute":8}}
+}

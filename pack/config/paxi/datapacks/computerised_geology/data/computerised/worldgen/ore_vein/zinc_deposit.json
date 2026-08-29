@@ -1,0 +1,10 @@
+{
+  "ore":{"type":"minecraft:weighted_state_provider","entries":[{"weight":3,"data":{"Name":"create:zinc_ore"}},{"weight":1,"data":{"Name":"create:deepslate_zinc_ore"}}]},
+  "secondary_ore":"create:raw_zinc_block",
+  "secondary_ore_chance":0.02,
+  "filler_block":"minecraft:clay",
+  "dimension":"minecraft:overworld",
+  "vein_toggle":{"input":{"type":"minecraft:interpolated","argument":{"type":"minecraft:noise","noise":"computerised:zinc_deposit","xz_scale":0.33,"y_scale":0.72}},"min_threshold":0.59,"max_threshold":0.72},
+  "vein_settings":{"min_ore_richness":0.06,"max_ore_richness":0.22,"min_richness_threshold":0.59,"max_richness_threshold":0.72,"vein_solidness":0.8},
+  "conditions":[{"type":"dynamic_veins:height_range","min_inclusive":{"absolute":-16},"max_inclusive":{"absolute":48}},{"type":"dynamic_veins:biome","biomes":["minecraft:swamp","minecraft:mangrove_swamp"]}]
+}

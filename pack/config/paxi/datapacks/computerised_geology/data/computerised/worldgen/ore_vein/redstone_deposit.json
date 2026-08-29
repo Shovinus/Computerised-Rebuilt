@@ -1,0 +1,10 @@
+{
+  "ore":"minecraft:deepslate_redstone_ore",
+  "secondary_ore":"minecraft:redstone_block",
+  "secondary_ore_chance":0.01,
+  "filler_block":"minecraft:deepslate",
+  "dimension":"minecraft:overworld",
+  "vein_toggle":{"input":{"type":"minecraft:interpolated","argument":{"type":"minecraft:noise","noise":"computerised:redstone_deposit","xz_scale":1.4,"y_scale":0.12}},"min_threshold":0.48,"max_threshold":0.72},
+  "vein_settings":{"min_ore_richness":0.12,"max_ore_richness":0.34,"min_richness_threshold":0.48,"max_richness_threshold":0.72,"vein_solidness":0.82},
+  "conditions":{"type":"dynamic_veins:height_range","min_inclusive":{"absolute":-60},"max_inclusive":{"absolute":16}}
+}

@@ -1,0 +1,7 @@
+# Development-only files
+/.git/
+/.github/
+/.tools/
+/README.md
+/DESIGN.md
+

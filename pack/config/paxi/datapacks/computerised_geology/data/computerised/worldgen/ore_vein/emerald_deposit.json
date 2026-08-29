@@ -1,0 +1,10 @@
+{
+  "ore":{"type":"minecraft:weighted_state_provider","entries":[{"weight":3,"data":{"Name":"minecraft:emerald_ore"}},{"weight":1,"data":{"Name":"minecraft:deepslate_emerald_ore"}}]},
+  "secondary_ore":"minecraft:emerald_block",
+  "secondary_ore_chance":0.005,
+  "filler_block":"minecraft:calcite",
+  "dimension":"minecraft:overworld",
+  "vein_toggle":{"input":{"type":"minecraft:interpolated","argument":{"type":"minecraft:noise","noise":"computerised:emerald_deposit","xz_scale":0.38,"y_scale":0.7}},"min_threshold":0.62,"max_threshold":0.73},
+  "vein_settings":{"min_ore_richness":0.035,"max_ore_richness":0.14,"min_richness_threshold":0.62,"max_richness_threshold":0.73,"vein_solidness":0.72},
+  "conditions":[{"type":"dynamic_veins:height_range","min_inclusive":{"absolute":-8},"max_inclusive":{"absolute":96}},{"type":"dynamic_veins:biome","biomes":["minecraft:meadow","minecraft:grove","minecraft:snowy_slopes","minecraft:jagged_peaks","minecraft:frozen_peaks","minecraft:stony_peaks","minecraft:windswept_hills","minecraft:windswept_gravelly_hills","minecraft:windswept_forest"]}]
+}

@@ -1,0 +1,13 @@
+name = "Chop Down Updated"
+filename = "chopdownupdated-1.20-1.20.4-1.4.0.jar"
+side = "both"
+
+[download]
+url = "https://mediafilez.forgecdn.net/files/8454/858/chopdownupdated-1.20-1.20.4-1.4.0.jar"
+hash-format = "sha1"
+hash = "7c8b814a76e25d5784681fe275ff2437e756cc6a"
+
+[update]
+[update.curseforge]
+file-id = 8454858
+project-id = 290001

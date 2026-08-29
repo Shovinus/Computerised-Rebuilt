@@ -1,0 +1,8 @@
+name = "Flywheel"
+filename = "flywheel-forge-1.20.1-1.0.5.jar"
+side = "client"
+
+[download]
+url = "https://maven.createmod.net/dev/engine-room/flywheel/flywheel-forge-1.20.1/1.0.5/flywheel-forge-1.20.1-1.0.5.jar"
+hash-format = "sha512"
+hash = "22a348340bd31162376cf9c7354d506cff4d87dcd211a6862ea62e13a59b76d08958b5c206d711eb8eb17b470cb7296b0878fb27b1e65a7d331541c18180486a"

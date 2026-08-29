@@ -1,0 +1,15 @@
+.idea/
+.vscode/
+!mods/computerised-geology/.vscode/
+!mods/computerised-geology/.vscode/launch.json
+!mods/computerised-geology/.vscode/tasks.json
+.gradle/
+build/
+run/
+.tools/
+*.log
+*.zip
+!Computerised-OreGen.code-workspace
+
+# Packwiz development/export output
+pack/mods/*.jar

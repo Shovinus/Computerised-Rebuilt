@@ -1,0 +1,147 @@
+hash-format = "sha256"
+
+[[files]]
+file = "config/paxi/datapacks/computerised_drill_rules/data/create/tags/blocks/non_breakable.json"
+hash = "e9d4d5dbfee7834681d4eaed456a12cd1f658676e29a589e2dd0f448104b6d1d"
+
+[[files]]
+file = "config/paxi/datapacks/computerised_drill_rules/pack.mcmeta"
+hash = "24e0ddbb95cee2de6b3c9f9120058cb5847c242edb990cb849dd7b7633d1f778"
+
+[[files]]
+file = "config/paxi/datapacks/computerised_geology/data/computerised/forge/biome_modifier/remove_vanilla_ores.json"
+hash = "303fad737fc5ba20aabe991b65a95bdf4ac634c49050bc2590e9ac4712e005b0"
+
+[[files]]
+file = "config/paxi/datapacks/computerised_geology/data/computerised/worldgen/noise/coal_deposit.json"
+hash = "f2b949bfdd7e1027f6ae82491831d19babb52142c50f86a3cb0a24d2fbcb238a"
+
+[[files]]
+file = "config/paxi/datapacks/computerised_geology/data/computerised/worldgen/noise/copper_deposit.json"
+hash = "97b644f8b5e8d207db29456853181abdea07372f807eb418548969f5fc6920b5"
+
+[[files]]
+file = "config/paxi/datapacks/computerised_geology/data/computerised/worldgen/noise/diamond_deposit.json"
+hash = "d8d47c66f2fea631c20b547d08c467cdccf8945db5fffdcaebf1d40faec7830f"
+
+[[files]]
+file = "config/paxi/datapacks/computerised_geology/data/computerised/worldgen/noise/emerald_deposit.json"
+hash = "97b644f8b5e8d207db29456853181abdea07372f807eb418548969f5fc6920b5"
+
+[[files]]
+file = "config/paxi/datapacks/computerised_geology/data/computerised/worldgen/noise/gold_deposit.json"
+hash = "97b644f8b5e8d207db29456853181abdea07372f807eb418548969f5fc6920b5"
+
+[[files]]
+file = "config/paxi/datapacks/computerised_geology/data/computerised/worldgen/noise/iron_deposit.json"
+hash = "97b644f8b5e8d207db29456853181abdea07372f807eb418548969f5fc6920b5"
+
+[[files]]
+file = "config/paxi/datapacks/computerised_geology/data/computerised/worldgen/noise/lapis_deposit.json"
+hash = "f2b949bfdd7e1027f6ae82491831d19babb52142c50f86a3cb0a24d2fbcb238a"
+
+[[files]]
+file = "config/paxi/datapacks/computerised_geology/data/computerised/worldgen/noise/redstone_deposit.json"
+hash = "f2b949bfdd7e1027f6ae82491831d19babb52142c50f86a3cb0a24d2fbcb238a"
+
+[[files]]
+file = "config/paxi/datapacks/computerised_geology/data/computerised/worldgen/noise/zinc_deposit.json"
+hash = "97b644f8b5e8d207db29456853181abdea07372f807eb418548969f5fc6920b5"
+
+[[files]]
+file = "config/paxi/datapacks/computerised_geology/data/computerised/worldgen/ore_vein/coal_deposit.json"
+hash = "957ba93c6a677e2840a7c8621868bea66dda93922b0aeef56351361696b0b7a8"
+
+[[files]]
+file = "config/paxi/datapacks/computerised_geology/data/computerised/worldgen/ore_vein/copper_deposit.json"
+hash = "0e0858d06b022884f1ffe9aea045551cd0b4852846a97eacea72e9e92e7a156b"
+
+[[files]]
+file = "config/paxi/datapacks/computerised_geology/data/computerised/worldgen/ore_vein/diamond_deposit.json"
+hash = "0792869949fd478e5de3b036ec35aaeb598bd7a695397506f611858e5936b125"
+
+[[files]]
+file = "config/paxi/datapacks/computerised_geology/data/computerised/worldgen/ore_vein/emerald_deposit.json"
+hash = "b96b508d53fa2b6495e930f7f71c0d00432a3e923c327d62ca72bf70693ad0ad"
+
+[[files]]
+file = "config/paxi/datapacks/computerised_geology/data/computerised/worldgen/ore_vein/gold_deposit.json"
+hash = "a2b965ce27e51abe7bd247ba1d89fcadbe50682536c50c1ec6c1420fa99a03ad"
+
+[[files]]
+file = "config/paxi/datapacks/computerised_geology/data/computerised/worldgen/ore_vein/iron_deposit.json"
+hash = "12fc8dcc0438c14bbb51d380f9db5a4d0d9f839106877c266703388f3ea409ab"
+
+[[files]]
+file = "config/paxi/datapacks/computerised_geology/data/computerised/worldgen/ore_vein/lapis_deposit.json"
+hash = "e4668f03ecdf8f4f22dc932116928a434e040d3a188779f6485c0fad30e58135"
+
+[[files]]
+file = "config/paxi/datapacks/computerised_geology/data/computerised/worldgen/ore_vein/redstone_deposit.json"
+hash = "93abd724928265241d84bf5538b0ad57ee4fd071c2e3c8acd49d1846e6d2b21d"
+
+[[files]]
+file = "config/paxi/datapacks/computerised_geology/data/computerised/worldgen/ore_vein/zinc_deposit.json"
+hash = "75e47aa80391687d154c98910d9481af312582ed9c3d5278dada7eb3dae051c5"
+
+[[files]]
+file = "config/paxi/datapacks/computerised_geology/data/create/forge/biome_modifier/zinc_ore.json"
+hash = "1aa26154c4975eaafc4c8d730bfaa21025700ae8b6d8483f5642e4198acb7da5"
+
+[[files]]
+file = "config/paxi/datapacks/computerised_geology/data/dynamic_veins/config/vein_settings/settings.json"
+hash = "6ea22c7e177379e90f6464e49a1c4d0555b41aeff984b669814c37e7eee973b2"
+
+[[files]]
+file = "config/paxi/datapacks/computerised_geology/pack.mcmeta"
+hash = "9e63783175a80208ea65377cd1c48bb4e83102ba636130b0855f6667415f9aca"
+
+[[files]]
+file = "mods/cc-tweaked.pw.toml"
+hash = "7bd1d2fd6ab593998f45a21716a8aa424af35a0ae87da7caad4ae6eeb368d8cd"
+metafile = true
+
+[[files]]
+file = "mods/chop-down-updated.pw.toml"
+hash = "73afbed79d3004d457cf2dc14452a298534593f4549e8ddbebe27707588d478c"
+metafile = true
+
+[[files]]
+file = "mods/create.pw.toml"
+hash = "2def53227d250c8d21536ddee4c08f6715a4ef22e1509061fd5eff9758e73517"
+metafile = true
+
+[[files]]
+file = "mods/dynamic-ore-veins.pw.toml"
+hash = "d25bd2f45c4fe687ed0eb0b1b025f50b460ef1972ca850490c8bc21bbd2a10e7"
+metafile = true
+
+[[files]]
+file = "mods/flywheel.pw.toml"
+hash = "2053ce8a8f18c56220fd1d56cac3c065826104fca66e04214dc2862a3131f379"
+metafile = true
+
+[[files]]
+file = "mods/jei.pw.toml"
+hash = "dbef263baaec578ca3cfdcd1822dbf9ef8dacb58f95de362b6753642ad9e4dd2"
+metafile = true
+
+[[files]]
+file = "mods/paxi.pw.toml"
+hash = "4d6061f8cdc19e758260ae2ad9016f841651eabe9fca930caf938abb70c79e53"
+metafile = true
+
+[[files]]
+file = "mods/ponder.pw.toml"
+hash = "ed495210be45a22c9baa93663b02e977c32f95aa908bce311f1b246535a105e3"
+metafile = true
+
+[[files]]
+file = "mods/vanillin.pw.toml"
+hash = "3808b5d4beec3bf6f18cd461c3227e35aad2c751113b627e016de4e750f69c47"
+metafile = true
+
+[[files]]
+file = "mods/yungs-api.pw.toml"
+hash = "7f00b0cf21d4eeda8fa36e2313a5c074f430a2ad88cbeb81086b90603d6f615c"
+metafile = true

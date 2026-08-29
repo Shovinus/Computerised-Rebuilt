@@ -1,0 +1,8 @@
+name = "Ponder"
+filename = "Ponder-Forge-1.20.1-1.0.91.jar"
+side = "both"
+
+[download]
+url = "https://maven.createmod.net/net/createmod/ponder/Ponder-Forge-1.20.1/1.0.91/Ponder-Forge-1.20.1-1.0.91.jar"
+hash-format = "sha512"
+hash = "8fadc9d7809a71cf6d067bc2bae06d2267b2e179ede3c8ba7fffa0b684677ef0e2ab5914fb4024196721a46a4914709e41df9b3c18e8d5658a33002ddc6cf27d"

@@ -1,0 +1,10 @@
+{
+  "ore":{"type":"minecraft:weighted_state_provider","entries":[{"weight":1,"data":{"Name":"minecraft:lapis_ore"}},{"weight":3,"data":{"Name":"minecraft:deepslate_lapis_ore"}}]},
+  "secondary_ore":"minecraft:lapis_block",
+  "secondary_ore_chance":0.008,
+  "filler_block":"minecraft:deepslate",
+  "dimension":"minecraft:overworld",
+  "vein_toggle":{"input":{"type":"minecraft:interpolated","argument":{"type":"minecraft:noise","noise":"computerised:lapis_deposit","xz_scale":1.2,"y_scale":0.14}},"min_threshold":0.52,"max_threshold":0.72},
+  "vein_settings":{"min_ore_richness":0.09,"max_ore_richness":0.28,"min_richness_threshold":0.52,"max_richness_threshold":0.72,"vein_solidness":0.8},
+  "conditions":{"type":"dynamic_veins:height_range","min_inclusive":{"absolute":-48},"max_inclusive":{"absolute":32}}
+}

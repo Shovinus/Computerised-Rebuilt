@@ -1,0 +1,11 @@
+{
+  "replace": false,
+  "values": [
+    "#forge:ores/iron",
+    "#forge:ores/copper",
+    "#forge:ores/zinc",
+    "#forge:ores/gold",
+    "#forge:ores/diamond",
+    "#forge:ores/emerald"
+  ]
+}

@@ -1,0 +1,13 @@
+name = "Computerised Rebuilt"
+author = "shovinus"
+version = "0.1.0-prototype"
+pack-format = "packwiz:1.1.0"
+
+[index]
+file = "index.toml"
+hash-format = "sha256"
+hash = "1947a9920a77eb94094031cadea3907c622cac054d280c1f6f0301a0f5706cdb"
+
+[versions]
+forge = "47.4.23"
+minecraft = "1.20.1"

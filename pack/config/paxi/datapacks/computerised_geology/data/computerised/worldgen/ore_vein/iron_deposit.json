@@ -1,0 +1,10 @@
+{
+  "ore":{"type":"minecraft:weighted_state_provider","entries":[{"weight":1,"data":{"Name":"minecraft:iron_ore"}},{"weight":3,"data":{"Name":"minecraft:deepslate_iron_ore"}}]},
+  "secondary_ore":"minecraft:raw_iron_block",
+  "secondary_ore_chance":0.02,
+  "filler_block":"minecraft:tuff",
+  "dimension":"minecraft:overworld",
+  "vein_toggle":{"input":{"type":"minecraft:interpolated","argument":{"type":"minecraft:noise","noise":"computerised:iron_deposit","xz_scale":0.35,"y_scale":0.8}},"min_threshold":0.58,"max_threshold":0.72},
+  "vein_settings":{"min_ore_richness":0.08,"max_ore_richness":0.28,"min_richness_threshold":0.58,"max_richness_threshold":0.72,"vein_solidness":0.82},
+  "conditions":[{"type":"dynamic_veins:height_range","min_inclusive":{"absolute":-16},"max_inclusive":{"absolute":46}},{"type":"dynamic_veins:biome","biomes":["minecraft:plains","minecraft:sunflower_plains","minecraft:taiga","minecraft:snowy_taiga","minecraft:old_growth_pine_taiga","minecraft:old_growth_spruce_taiga"]}]
+}

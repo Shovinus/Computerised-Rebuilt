@@ -1,0 +1,37 @@
+{
+  "version": "2.0.0",
+  "tasks": [
+    {
+      "label": "prepareRunClientCompile",
+      "type": "shell",
+      "command": ".\\gradlew.bat prepareRunClientCompile",
+      "options": {
+        "cwd": "${workspaceFolder}"
+      }
+    },
+    {
+      "label": "prepareRunDataCompile",
+      "type": "shell",
+      "command": ".\\gradlew.bat prepareRunDataCompile",
+      "options": {
+        "cwd": "${workspaceFolder}"
+      }
+    },
+    {
+      "label": "prepareRunGameTestServerCompile",
+      "type": "shell",
+      "command": ".\\gradlew.bat prepareRunGameTestServerCompile",
+      "options": {
+        "cwd": "${workspaceFolder}"
+      }
+    },
+    {
+      "label": "prepareRunServerCompile",
+      "type": "shell",
+      "command": ".\\gradlew.bat prepareRunServerCompile",
+      "options": {
+        "cwd": "${workspaceFolder}"
+      }
+    }
+  ]
+}
