@@ -1,0 +1,7 @@
+{
+  "type":"minecraft:crafting_shaped",
+  "category":"misc",
+  "pattern":["###","###","###"],
+  "key":{"#":{"tag":"forge:nuggets/nickel"}},
+  "result":{"item":"computerised_oregen:nickel_ingot"}
+}

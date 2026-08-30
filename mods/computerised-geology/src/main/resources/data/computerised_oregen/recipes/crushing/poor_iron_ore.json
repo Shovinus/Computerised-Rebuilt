@@ -1,0 +1,10 @@
+{
+  "type":"create:crushing",
+  "conditions":[{"type":"forge:mod_loaded","modid":"create"}],
+  "ingredients":[{"item":"computerised_oregen:poor_iron_ore"}],
+  "processingTime":150,
+  "results":[
+    {"item":"computerised_oregen:iron_fines","count":4},
+    {"item":"computerised_oregen:iron_fines","chance":0.25}
+  ]
+}

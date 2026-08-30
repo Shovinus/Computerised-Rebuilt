@@ -1,0 +1,6 @@
+{
+  "type":"minecraft:crafting_shapeless",
+  "category":"misc",
+  "ingredients":[{"tag":"forge:ingots/nickel"}],
+  "result":{"item":"computerised_oregen:nickel_nugget","count":9}
+}

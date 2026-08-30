@@ -63,16 +63,20 @@
     },
     "blocks": [
       {
-        "state": { "Name": "minecraft:iron_ore" },
-        "weight": 70
+        "state": { "Name": "computerised_oregen:trace_iron_ore" },
+        "weight": 60
       },
       {
-        "state": { "Name": "minecraft:copper_ore" },
+        "state": { "Name": "computerised_oregen:poor_iron_ore" },
         "weight": 20
       },
       {
-        "state": { "Name": "minecraft:gold_ore" },
-        "weight": 10
+        "state": { "Name": "computerised_oregen:poor_nickel_ore" },
+        "weight": 17
+      },
+      {
+        "state": { "Name": "minecraft:iron_ore" },
+        "weight": 3
       }
     ],
     "replaceable_tag": "minecraft:stone_ore_replaceables",

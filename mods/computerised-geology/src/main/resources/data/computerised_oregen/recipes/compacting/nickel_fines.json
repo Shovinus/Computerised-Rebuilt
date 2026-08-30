@@ -1,0 +1,11 @@
+{
+  "type":"create:compacting",
+  "conditions":[{"type":"forge:mod_loaded","modid":"create"}],
+  "ingredients":[
+    {"item":"computerised_oregen:nickel_fines"},
+    {"item":"computerised_oregen:nickel_fines"},
+    {"item":"computerised_oregen:nickel_fines"},
+    {"item":"computerised_oregen:nickel_fines"}
+  ],
+  "results":[{"item":"computerised_oregen:nickel_nugget"}]
+}

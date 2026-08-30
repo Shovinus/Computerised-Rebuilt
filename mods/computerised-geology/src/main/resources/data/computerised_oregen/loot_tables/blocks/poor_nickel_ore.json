@@ -1,0 +1,8 @@
+{
+  "type":"minecraft:block",
+  "pools":[{
+    "rolls":1,
+    "entries":[{"type":"minecraft:item","name":"computerised_oregen:poor_nickel_ore"}],
+    "conditions":[{"condition":"minecraft:survives_explosion"}]
+  }]
+}

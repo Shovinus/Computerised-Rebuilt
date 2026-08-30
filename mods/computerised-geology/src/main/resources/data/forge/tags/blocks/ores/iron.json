@@ -1,0 +1,7 @@
+{
+  "replace": false,
+  "values": [
+    "computerised_oregen:trace_iron_ore",
+    "computerised_oregen:poor_iron_ore"
+  ]
+}

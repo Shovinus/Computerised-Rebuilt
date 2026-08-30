@@ -1,6 +1,6 @@
 {
   "type": "forge:add_features",
-  "biomes": "#computerised_oregen:iron_deposit_biomes",
+  "biomes": "#minecraft:is_overworld",
   "features": "computerised_oregen:development_iron_motherlode",
   "step": "underground_ores"
 }

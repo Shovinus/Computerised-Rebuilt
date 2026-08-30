@@ -3,7 +3,7 @@
   "configurations": [
     {
       "type": "java",
-      "name": "Minecraft Client (Run or Debug)",
+      "name": "runClient",
       "request": "launch",
       "mainClass": "cpw.mods.bootstraplauncher.BootstrapLauncher",
       "projectName": "computerised-geology",

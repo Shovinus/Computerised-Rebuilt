@@ -1,0 +1,9 @@
+{
+  "variants": {
+    "": [
+      {"model":"computerised_oregen:block/poor_iron_ore"},
+      {"model":"computerised_oregen:block/poor_iron_ore_1"},
+      {"model":"computerised_oregen:block/poor_iron_ore_2"}
+    ]
+  }
+}

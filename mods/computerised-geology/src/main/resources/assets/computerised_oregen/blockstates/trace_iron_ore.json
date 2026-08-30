@@ -1,0 +1,8 @@
+{
+  "variants": {
+    "": [
+      {"model":"computerised_oregen:block/trace_iron_ore"},
+      {"model":"computerised_oregen:block/trace_iron_ore_1"}
+    ]
+  }
+}
